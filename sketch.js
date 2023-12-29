@@ -5,7 +5,7 @@ function setup() {
 
 // draw() is called 60 times per second
 function draw() {
-    background(252, 248, 240);
+    // background(252, 248, 240);
     
     let centerX = width / 2;
     let centerY = height / 2;
